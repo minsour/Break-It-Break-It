@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="jm::Box" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAIAAQIAAAAAAAAAAAA=</HashCode>
+      <FileName>Box.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::Circle" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAQIAAAAAAAAAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::GeometricObject" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIACIAAIBAEAAAAQOAAAAAAAAAAAA=</HashCode>
+      <FileName>GeometricObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::ImageObject" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAgJAAAAgAAAAAAA=</HashCode>
+      <FileName>ImageObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::Star" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAQAAAAAAAAAAAAAAAAAAAAAAAAQIAgAAAAAAAAAA=</HashCode>
+      <FileName>Star.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::Triangle" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAABAIAAAAAAAAAAAQIAAAAAAAAAAAA=</HashCode>
+      <FileName>Triangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::Game2D" Collapsed="true">
+    <Position X="8.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgoAIAAABCAQgQAAAAEAEAAAGKAIAgAEAgEAEgAA=</HashCode>
+      <FileName>Engine\Game2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::RandomNumberGenerator" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAgAgAAABEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\RandomNumberGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::RGB" Collapsed="true">
+    <Position X="12" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\RGB.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::Timer" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEABAAAAAgAAAiAAAAEAAgAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Engine\Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::Vector2&lt;T&gt;" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAABAAAAAAAAAQAAAAEAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Engine\Vector2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::Vector3&lt;T&gt;" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAQAAAAAAQAAAAEAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Engine\Vector3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jm::PrimitivesGallery" Collapsed="true">
+    <Position X="7" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Examples\PrimitivesGallery.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionObject" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAACAAAAAAAAAAAAIAAQIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollisionObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fmod" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIACABAAAAAgAAACEAAIAAAAAAAAEAgA=</HashCode>
+      <FileName>Fmod.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAQAAAACAAAEAQAJAAAAAQAAAAAQAAA=</HashCode>
+      <FileName>Item.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JumpBall" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQGAAACAAAAAAAAAAAEAAAIAAAAJBAAwAAAQAAABACA=</HashCode>
+      <FileName>JumpBall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JumpBallManager" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAhAAAAEAEAAoABAAAAAAgAAIABAAAAAAEAAA=</HashCode>
+      <FileName>JumpBallManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Missile" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAQAAAIAAEAAAAAAAACAQAAAAAAEAAA=</HashCode>
+      <FileName>Missile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAAAAAQAAAACAAAIACAAAAAACAAAAAAAAEAAA=</HashCode>
+      <FileName>ParticleSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleSystem" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEAAAAAAAAAAqAAAIAAAAAAAAAAAAAAABEAAA=</HashCode>
+      <FileName>ParticleSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RigidCircle" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAAAAAAAACIAAAAAAAEAAACgAAAAAAAEAAA=</HashCode>
+      <FileName>RigidCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RigidStar" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAACAAAAAAAAACIAAAAAAAAAAACAAAAAAAAEAgA=</HashCode>
+      <FileName>RigidStar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarShip" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIIAAAAAAAIAAgCgAAAAAAEAAA=</HashCode>
+      <FileName>StarShip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spark::GameManager" Collapsed="true">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIAAAAAAAAAAAACAAAAIACAAARAFCAAAAARUAAA=</HashCode>
+      <FileName>GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
